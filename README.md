@@ -16,11 +16,9 @@ Hey, I'm Salvador Gisbert Sempere, a young graduated Data Scientist 💻 from Va
 
 ## 🔥 Languages & Frameworks & Tools  🔥
 <p align="center">
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Python" height="25" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png"></code>
+  <code><img title="R" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"></code>
+  <code><img title="SQL" height="25" src="https://icon2.cleanpng.com/20180611/ipg/aa8k6rg0g.webp"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
