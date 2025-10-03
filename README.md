@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**salvador-gisbert/salvador-gisbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![/images/picture.jpg](https://e01-xlk-ue-marca.uecdn.es/uploads/2024/10/11/17284601982602.jpeg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 About me:
+Hey, I'm Salvador Gisbert Sempere, a young graduated Data Scientist 💻 from Valencia, Spain. My goal is to turn complex data into strategic insights 📊 that drive decision-making in high-impact environments.
+
+💡 I have experience in predictive modeling, data visualization, and key metric analysis, working with tools like Python, R, SQL, Power BI, and advanced Excel. During my internships at Fundación CEAM, Teleworx and Elecnor, I implemented prediction models and developed interactive dashboards to optimize business strategies.
+
+📈 My passion for marketing analytics has led me to specialize in KPIs, campaign evaluation, and commercial strategies, combining my analytical mindset with a results-driven vision.
+
+🎯 In addition, I excel in leadership and teamwork, being a football team captain ⚽ and an event organizer for a youth group. These experiences have strengthened my planning, communication, and problem-solving skills in dynamic environments.
+
+🌍 Always seeking new challenges and learning opportunities, I have expanded my horizons through an Erasmus experience in Poland and training in investment and finance.
