@@ -1,7 +1,7 @@
 ## Hi there 👋
-
-<code><img title="Python" height="100" src="https://e01-xlk-ue-marca.uecdn.es/uploads/2024/10/11/17284601982602.jpeg"></code>
-
+<p align="center">
+<code><img title="Python" height="300" src="https://e01-xlk-ue-marca.uecdn.es/uploads/2024/10/11/17284601982602.jpeg"></code>
+</p>
 
 ## 📜 About me:
 Hey, I'm Salvador Gisbert Sempere, a young graduated Data Scientist 💻 from Valencia, Spain. I am currently working at [Grupo Elecnor](https://www.grupoelecnor.com/home). My goal is to turn complex data into strategic insights 📊 that drive decision-making in high-impact environments.
