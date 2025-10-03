@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![/images/picture.jpg](https://e01-xlk-ue-marca.uecdn.es/uploads/2024/10/11/17284601982602.jpeg)
+<code><img title="Python" height="100" src="https://e01-xlk-ue-marca.uecdn.es/uploads/2024/10/11/17284601982602.jpeg"></code>
 
 
 ## 📜 About me:
@@ -18,17 +18,9 @@ Hey, I'm Salvador Gisbert Sempere, a young graduated Data Scientist 💻 from Va
 <p align="center">
   <code><img title="Python" height="25" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png"></code>
   <code><img title="R" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"></code>
-  <code><img title="SQL" height="25" src="https://gimgs2.nohat.cc/thumb/f/640/sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-png--compngwingzoupl.jpg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="GCP" height="25" src="images/gcp.svg"></code>
-  <code><img title="AWS" height="25" src="images/aws.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="Kubernetes" height="25" src="images/kubernetes.svg"></code>
-
+  <code><img title="SQL" height="25" src="https://icon2.cleanpng.com/20180611/ipg/aa8k6rg0g.webp"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://e7.pngegg.com/pngimages/195/304/png-clipart-visual-studio-code-logo-thumbnail-tech-companies-thumbnail.png"></code>
+  <code><img title="JSON" height="25" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-json-file-document-icon-png-image_4166911.jpg"></code>
+  <code><img title="GitHub" height="25" src="https://img.favpng.com/7/11/12/github-logo-repository-computer-icons-png-favpng-dPybeZAYFbvSEiHDn0CXk5Yig.jpg"></code>
+  <code><img title="MySQL" height="25" src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png"></code>
 </p>
